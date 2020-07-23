@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ## Hello everyone, it's good to see you all here! :eyes:
 
 - 🔭 I’m currently working on making your appliance give you a cold glass of water [@GEAppliances](https://github.com/geappliances)
